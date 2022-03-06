@@ -1,0 +1,3 @@
+extract all words :
+<p><b>Noms</b>(.*</a>)                              //Get only the nouns
+<a href=\"/wiki/.*?\" title=\".*?\">(.*?)</a>       //Get each words.
